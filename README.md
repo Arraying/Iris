@@ -1,5 +1,6 @@
 # Iris
-Basic Bayesian Naïve classification of Iris flowers
+
+Basic Bayesian Naïve classification of Iris flowers. This project helped me understand an example of a parametric classifier more.
 
 ### Usage
 
